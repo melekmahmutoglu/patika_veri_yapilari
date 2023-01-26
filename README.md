@@ -1,0 +1,2 @@
+# patika_veri_yapilari
+patika_veri_yapilari
